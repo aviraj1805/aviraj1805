@@ -55,7 +55,6 @@
 ![Regression](https://img.shields.io/badge/-Regression-0078D7?style=flat-square)
 ![Classification](https://img.shields.io/badge/-Classification-E63946?style=flat-square)
 ![Clustering](https://img.shields.io/badge/-Clustering-2A9D8F?style=flat-square)
-![Feature Engineering](https://img.shields.io/badge/-Feature%20Engineering-F4A261?style=flat-square)
 ![GridSearchCV](https://img.shields.io/badge/-GridSearchCV-457B9D?style=flat-square)
 
 **Deep Learning**
@@ -65,7 +64,6 @@
 ![LSTM](https://img.shields.io/badge/-LSTM-D00000?style=flat-square)
 ![RNN](https://img.shields.io/badge/-RNN-8B0000?style=flat-square)
 ![CNN](https://img.shields.io/badge/-CNN-FF4500?style=flat-square)
-![Batch Normalization](https://img.shields.io/badge/-Batch%20Normalization-6A5ACD?style=flat-square)
 ![Transfer Learning](https://img.shields.io/badge/-Transfer%20Learning-2E8B57?style=flat-square)
 
 **AI / ML / GenAI**
@@ -76,10 +74,7 @@
 ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-000000?style=flat-square)
 ![NLP](https://img.shields.io/badge/-NLP-4B8BBE?style=flat-square)
 ![Multi-Agent Systems](https://img.shields.io/badge/-Multi--Agent%20Systems-6A0DAD?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
-![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/-Claude%20API-000000?style=flat-square&logo=anthropic&logoColor=white)
 
 **Data & Analysis**
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
