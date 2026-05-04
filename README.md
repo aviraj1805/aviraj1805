@@ -24,7 +24,7 @@
 - **[Mahaguru AI](https://github.com/aviraj1805/Mahaguru-AI-v1)** — Multi-agent LLM platform for career clarity, emotional support, and personalized learning
 - **[Tesla Stock Prediction](https://github.com/aviraj1805/Tesla-Stock-Price-Prediction)** — Deep learning pipeline: SimpleRNN → LSTM → tuned LSTM with multi-horizon forecasts
 - **[Real Estate Advisor](https://github.com/aviraj1805/Real-Estate-Investment-Advisor-XGBoost-)** — XGBoost model predicting property profitability and future value
-- **[es Bank Stock Price Prediction](https://github.com/aviraj1805/YesBank_Internship)** — Machine learning project to predict Yes Bank closing stock prices using historical OHLC data.
+- **[Yes Bank Stock Price Prediction](https://github.com/aviraj1805/YesBank_Internship)** — Machine learning project to predict Yes Bank closing stock prices using historical OHLC data.
 - **[Customer-Churn-Prediction](https://github.com/aviraj1805/Customer-Churn-Prediction)** — Predict the probability that a telecom customer will churn based on their usage patterns.
 - **[iTunes Music Store](https://github.com/aviraj1805/iTunes-Data-Analysis)** — SQL-based analysis of the Apple iTunes database to derive insights on customer behavior.
 
