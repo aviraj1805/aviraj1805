@@ -21,6 +21,8 @@
 ## Current Projects
 
 - **[StudentGPT](https://github.com/aviraj1805/StudentGPT_V01)** — Fine-tuned LLM for psychologically-informed student mentorship and structured guidance
+- **[intelligent-aerial-monitoring](https://github.com/aviraj1805/intelligent-aerial-monitoring)** — intelligent-aerial-monitoring (IAMARS)
+- **[Phonepay](https://github.com/aviraj1805/PhonePe)** — A data analysis and visualization project built on the PhonePe Pulse dataset.
 - **[Mahaguru AI](https://github.com/aviraj1805/Mahaguru-AI-v1)** — Multi-agent LLM platform for career clarity, emotional support, and personalized learning
 - **[Tesla Stock Prediction](https://github.com/aviraj1805/Tesla-Stock-Price-Prediction)** — Deep learning pipeline: SimpleRNN → LSTM → tuned LSTM with multi-horizon forecasts
 - **[Real Estate Advisor](https://github.com/aviraj1805/Real-Estate-Investment-Advisor-XGBoost-)** — XGBoost model predicting property profitability and future value
