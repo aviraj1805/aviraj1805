@@ -125,9 +125,10 @@ Delivered 10 industry-grade projects across Databases, EDA, ML, Deep Learning, a
 
 ## Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=aviraj1805&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=aviraj1805&theme=default&hide_border=true)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/aviraj_virape?theme=light&font=Sora&ext=heatmap)
+
 #### *LeetCode Update - 01/05/2026*
 
 ---
