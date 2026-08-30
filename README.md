@@ -119,13 +119,22 @@ Delivered 10 industry-grade projects across Databases, EDA, ML, Deep Learning, a
 
 ## GitHub Activity
 
+<div align="center" style="margin: 25px 0; padding: 30px 20px; background: #ffffff; border-radius: 12px; border: 1px solid #e1e4e8; box-shadow: 0 2px 12px rgba(0,0,0,0.08); width: 100%;">
+  
 ![GitHub Contribution Graph](https://ghchart.rshah.org/aviraj1805)
+
+  <p style="color: #666; font-size: 12px; margin-top: 10px;">52 Weeks Contribution Activity</p>
+</div>
 
 ---
 
 ## Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=aviraj1805&theme=default&hide_border=true)
+<div align="center" style="margin: 25px 0; padding: 20px;">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=aviraj1805&theme=default&hide_border=true&background=ffffff&ring=FFB700&fire=FF5733&currStreakNum=FF6B6B&dates=666666)
+
+</div>
 
 ### LeetCode Profile
 
@@ -140,14 +149,20 @@ Delivered 10 industry-grade projects across Databases, EDA, ML, Deep Learning, a
 
 **Badges Earned**
 
-<p>
-  <img src="50_days_badge.png" alt="50 Days Badge" width="180" style="display: inline; margin-right: 15px;">
-  <img src="pandas_badge.png" alt="Introduction to Pandas Badge" width="180" style="display: inline;">
+<p style="text-align: center; margin: 20px 0;">
+  <img src="50_days_badge.png" alt="50 Days Badge" width="180" style="margin: 0 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px;">
+  <img src="pandas_badge.png" alt="Introduction to Pandas Badge" width="180" style="margin: 0 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px;">
 </p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/aviraj_virape?theme=light&font=Sora&ext=heatmap)
+---
 
-#### Last Updated — 01/05/2026
+### LeetCode Heatmap
+
+<a href="https://leetcode.com/u/aviraj_virape/" align="center">
+  <img src="https://leetcard.jacoblin.cool/aviraj_virape?theme=dark&font=Sora&ext=heatmap&site=lc" alt="LeetCode Stats" style="width: 100%; max-width: 100%; display: block; margin: 25px auto; border-radius: 12px; border: 1px solid #30363d;">
+</a>
+
+<p align="center" style="color: #8b949e; font-size: 12px; margin-top: 15px;">52 Weeks Submission Heatmap | Last Updated — 01/05/2026</p>
 
 ---
 
