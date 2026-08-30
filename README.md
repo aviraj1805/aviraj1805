@@ -1,4 +1,4 @@
-# Hi, I'm Aviraj 👋
+# Hi, I'm Aviraj
 
 **Pune, India** | **AI/ML Engineer** | **B.E. AI & Data Science '27** | **Ex-Founder, Mahaguru AI**
 
@@ -127,9 +127,27 @@ Delivered 10 industry-grade projects across Databases, EDA, ML, Deep Learning, a
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=aviraj1805&theme=default&hide_border=true)
 
+### LeetCode Profile
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/aviraj_virape/)
+
+**Statistics**
+
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-275-FFA116?style=flat-square)
+![Current Rank](https://img.shields.io/badge/Current%20Rank-Top%205%25-1DB954?style=flat-square)
+![Consistency](https://img.shields.io/badge/Consistency-Active-4CAF50?style=flat-square)
+![Difficulty Focus](https://img.shields.io/badge/Difficulty%20Focus-Medium%2FHard-FF6B6B?style=flat-square)
+
+**Badges Earned**
+
+<p>
+  <img src="50_days_badge.png" alt="50 Days Badge" width="180" style="display: inline; margin-right: 15px;">
+  <img src="pandas_badge.png" alt="Introduction to Pandas Badge" width="180" style="display: inline;">
+</p>
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/aviraj_virape?theme=light&font=Sora&ext=heatmap)
 
-#### *LeetCode Update - 01/05/2026*
+#### Last Updated — 01/05/2026
 
 ---
 
@@ -171,7 +189,7 @@ Research on LLM-based reflective mentorship architectures for student guidance a
 
 - Published at **IEEE National Conference** on AI-Powered Reflective Mentorship
 - Selected into **COEP's I2I Startup Program** — institutional backing for Mahaguru AI
-- **certified AI/Ml Engineer** - Apna college Prime 2.0 batch
+- **Certified AI/ML Engineer** - Apna College Prime 2.0 Batch
 
 ### Philosophy
 
