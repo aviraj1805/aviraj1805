@@ -86,6 +86,8 @@ Delivered 10 industry-grade projects across Databases, EDA, ML, Deep Learning, a
 <p style="text-align: center; margin: 20px 0;">
   <img src="50_days_badge.png" alt="50 Days Badge" width="180" style="margin: 0 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px;">
   <img src="pandas_badge.png" alt="Introduction to Pandas Badge" width="180" style="margin: 0 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px;">
+  <img src="100_days.png" alt="Introduction to Pandas Badge" width="180" style="margin: 0 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border-radius: 8px;">
+
 </p>
 
 ---
