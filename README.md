@@ -22,12 +22,12 @@
 
 - **[StudentGPT](https://github.com/aviraj1805/StudentGPT_V01)** — Fine-tuned LLM for psychologically-informed student mentorship and structured guidance
 - **[intelligent-aerial-monitoring](https://github.com/aviraj1805/intelligent-aerial-monitoring)** — intelligent-aerial-monitoring (IAMARS)
+- **[Customer-Churn-Prediction](https://github.com/aviraj1805/Customer-Churn-Prediction)** — Predict the probability that a telecom customer will churn based on their usage patterns.
 - **[Phonepay](https://github.com/aviraj1805/PhonePe)** — A data analysis and visualization project built on the PhonePe Pulse dataset.
 - **[Mahaguru AI](https://github.com/aviraj1805/Mahaguru-AI-v1)** — Multi-agent LLM platform for career clarity, emotional support, and personalized learning
 - **[Tesla Stock Prediction](https://github.com/aviraj1805/Tesla-Stock-Price-Prediction)** — Deep learning pipeline: SimpleRNN → LSTM → tuned LSTM with multi-horizon forecasts
 - **[Real Estate Advisor](https://github.com/aviraj1805/Real-Estate-Investment-Advisor-XGBoost-)** — XGBoost model predicting property profitability and future value
 - **[Yes Bank Stock Price Prediction](https://github.com/aviraj1805/YesBank_Internship)** — Machine learning project to predict Yes Bank closing stock prices using historical OHLC data.
-- **[Customer-Churn-Prediction](https://github.com/aviraj1805/Customer-Churn-Prediction)** — Predict the probability that a telecom customer will churn based on their usage patterns.
 - **[iTunes Music Store](https://github.com/aviraj1805/iTunes-Data-Analysis)** — SQL-based analysis of the Apple iTunes database to derive insights on customer behavior.
 
 ---
@@ -44,10 +44,10 @@
 ## Experience
 
 **Ex. Founder — Mahaguru AI** *(Jan 2024 – Nov 2025)*
-Founded an AI-driven student guidance platform from scratch. Built a multi-agent LLM system with adaptive mentorship flows, goal-setting support, and progress tracking. Selected into **COEP's I2I Startup Program** — receiving institutional mentorship and early-stage backing.
+Founded an AI student-guidance startup concept; designed a multi-agent LLM architecture (FastAPI, React) and curated a student–mentor dialogue dataset. Selected into **COEP's I2I Startup Program.**
 
 **Data Science Intern — Innovexis** *(Feb 2026 – May 2026)*
-Delivered 10 industry-grade projects across Databases, EDA, ML, Deep Learning, and Generative AI. Full stack from data ingestion to deployed models.
+Built an ETL pipeline loading PhonePe Pulse JSON data (2018–2024) into a 9-table MySQL database, and a multi-page Streamlit + Plotly dashboard answering 10 business questions via SQL.
 
 ---
 
@@ -61,14 +61,6 @@ Delivered 10 industry-grade projects across Databases, EDA, ML, Deep Learning, a
 </div>
 
 ---
-
-## Stats
-
-<div align="center" style="margin: 25px 0; padding: 20px;">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=aviraj1805&theme=default&hide_border=true&background=ffffff&ring=FFB700&fire=FF5733&currStreakNum=FF6B6B&dates=666666)
-
-</div>
 
 ### LeetCode Profile
 
@@ -104,14 +96,13 @@ Delivered 10 industry-grade projects across Databases, EDA, ML, Deep Learning, a
 
 ## Publication
 
-**AI-Powered Reflective Mentorship** — *IEEE National Conference*
-Research on LLM-based reflective mentorship architectures for student guidance and emotional support.
+Presented **"AI-Powered Reflective Mentorship"** at INMEC-2026 (1st International Conference, Keystone School of Engineering, Pune, Mar 2026)
 
 ---
 
 ## Education
 
-**B.E. — Artificial Intelligence & Data Science**, APCOER, Pune *(2023 – 2026)* — **9.0 CGPA**
+**B.E. — Artificial Intelligence & Data Science**, (2023 – 2027) — **9.2 CGPA**
 
 **HSC Science**, Yashodhara Junior College, Solapur *(2021 – 2022)* — 78%
 
@@ -138,7 +129,7 @@ Research on LLM-based reflective mentorship architectures for student guidance a
 
 ### Recognition
 
-- Published at **IEEE National Conference** on AI-Powered Reflective Mentorship
+- Published at **INMEC National Conference** on AI-Powered Reflective Mentorship
 - Selected into **COEP's I2I Startup Program** — institutional backing for Mahaguru AI
 - **Certified AI/ML Engineer** - Apna College Prime 2.0 Batch
 
