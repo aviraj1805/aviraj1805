@@ -3,28 +3,23 @@
 **Pune, India** | **AI/ML Engineer** | **B.E. AI & Data Science '27** | **Ex-Founder, Mahaguru AI**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Anthropic](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-> Building AI systems that reason, mentor, and adapt — from fine-tuned LLMs to multi-agent pipelines. Currently deep in GenAI and agentic AI workflows.
+> Building AI systems that reason, mentor, and adapt.
 
 ---
 
 ## Current Projects
 
-- **[StudentGPT](https://github.com/aviraj1805/StudentGPT_V01)** — Fine-tuned LLM for psychologically-informed student mentorship and structured guidance
+- **[StudentGPT](https://github.com/aviraj1805/StudentGPT_V01)** *(concept/prototype)* — Fine-tuned LLM for psychologically-informed student mentorship and structured guidance
 - **[intelligent-aerial-monitoring](https://github.com/aviraj1805/intelligent-aerial-monitoring)** — intelligent-aerial-monitoring (IAMARS)
 - **[Customer-Churn-Prediction](https://github.com/aviraj1805/Customer-Churn-Prediction)** — Predict the probability that a telecom customer will churn based on their usage patterns.
 - **[Phonepay](https://github.com/aviraj1805/PhonePe)** — A data analysis and visualization project built on the PhonePe Pulse dataset.
-- **[Mahaguru AI](https://github.com/aviraj1805/Mahaguru-AI-v1)** — Multi-agent LLM platform for career clarity, emotional support, and personalized learning
+- **[Mahaguru AI](https://github.com/aviraj1805/Mahaguru-AI-v1)** *(concept/prototype)* — Multi-agent LLM platform for career clarity, emotional support, and personalized learning
 - **[Tesla Stock Prediction](https://github.com/aviraj1805/Tesla-Stock-Price-Prediction)** — Deep learning pipeline: SimpleRNN → LSTM → tuned LSTM with multi-horizon forecasts
 - **[Real Estate Advisor](https://github.com/aviraj1805/Real-Estate-Investment-Advisor-XGBoost-)** — XGBoost model predicting property profitability and future value
 - **[Yes Bank Stock Price Prediction](https://github.com/aviraj1805/YesBank_Internship)** — Machine learning project to predict Yes Bank closing stock prices using historical OHLC data.
@@ -35,9 +30,9 @@
 ## What I'm Doing
 
 - **Building agentic AI systems** — Designing multi-agent LLM workflows for real-world student guidance
-- **Fine-tuning LLMs** — Curating domain-specific datasets and training production-ready conversational models
+- **Fine-tuning LLMs** — Curating domain-specific datasets and training conversational models
 - **Shipping ML pipelines end-to-end** — From EDA and model selection to deployment and monitoring
-- **Researching human-centered AI** — Published at IEEE on reflective mentorship with LLMs
+- **Researching human-centered AI** — Presented at INMEC-2026, Keystone School of Engineering, Pune (reflective mentorship with LLMs)
 
 ---
 
@@ -102,7 +97,7 @@ Presented **"AI-Powered Reflective Mentorship"** at INMEC-2026 (1st Internationa
 
 ## Education
 
-**B.E. — Artificial Intelligence & Data Science**, (2023 – 2027) — **9.2 CGPA**
+**B.E. — Artificial Intelligence & Data Science**, 2023 – 2027, CGPA 9.2
 
 **HSC Science**, Yashodhara Junior College, Solapur *(2021 – 2022)* — 78%
 
@@ -129,7 +124,7 @@ Presented **"AI-Powered Reflective Mentorship"** at INMEC-2026 (1st Internationa
 
 ### Recognition
 
-- Published at **INMEC National Conference** on AI-Powered Reflective Mentorship
+- Presented at **INMEC-2026, Keystone School of Engineering, Pune** — AI-Powered Reflective Mentorship
 - Selected into **COEP's I2I Startup Program** — institutional backing for Mahaguru AI
 - **Certified AI/ML Engineer** - Apna College Prime 2.0 Batch
 
