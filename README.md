@@ -1,6 +1,6 @@
 # Hi, I'm Aviraj
 
-**Pune, India** | **AI/ML Engineer** | **B.E. AI & Data Science '27** | **Ex-Founder, Mahaguru AI**
+**Pune, India** | **AI/ML Engineer** | **B.E. AI & Data Science '27** | **Creator, MahaGuru AI**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -8,18 +8,44 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 > Building AI systems that reason, mentor, and adapt.
 
 ---
 
-## Current Projects
+## Featured: MahaGuru AI
 
-- **[StudentGPT](https://github.com/aviraj1805/StudentGPT_V01)** *(concept/prototype)* — Fine-tuned LLM for psychologically-informed student mentorship and structured guidance
+**An open-source AI mentor and personalised classroom for college students.** Live, tested and deployed.
+
+<a href="https://mahaguru-ai.onrender.com">
+  <img src="https://raw.githubusercontent.com/aviraj1805/MahaGuru-V1/main/docs/screenshots/home.png" alt="MahaGuru AI homepage" width="100%" />
+</a>
+
+| | |
+|---|---|
+| **StudentGPT** | A reflective mentor that asks before it advises. English and Hinglish safety screening on every message, a structured understanding record, and a clarity summary at the end. |
+| **Classroom** | Turns a goal into a diagnostic, a personalised roadmap, generated lessons with an AI teacher, quizzes, graded projects and adaptive mastery tracking. |
+| **Engineering** | FastAPI and React (TypeScript) monorepo, PostgreSQL, streamed replies over SSE, a provider-agnostic LLM layer (Gemini by default), one Docker image |
+| **Quality** | pytest on SQLite and PostgreSQL, Playwright end-to-end tests on desktop and mobile, CI on every push, and a 24-scenario evaluation suite including crisis cases |
+
+[![Live demo](https://img.shields.io/badge/Live%20demo-mahaguru--ai.onrender.com-1D4ED8?style=for-the-badge)](https://mahaguru-ai.onrender.com)
+[![Source](https://img.shields.io/badge/Source-MahaGuru--V1-181717?style=for-the-badge&logo=github)](https://github.com/aviraj1805/MahaGuru-V1)
+[![CI](https://github.com/aviraj1805/MahaGuru-V1/actions/workflows/ci.yml/badge.svg)](https://github.com/aviraj1805/MahaGuru-V1/actions/workflows/ci.yml)
+
+[Research behind it](https://mahaguru-ai.onrender.com/research) · [Architecture](https://github.com/aviraj1805/MahaGuru-V1/blob/main/docs/architecture.md) · [Evaluation method](https://github.com/aviraj1805/MahaGuru-V1/blob/main/docs/evaluation.md) · [Screenshots](https://github.com/aviraj1805/MahaGuru-V1#screenshots)
+
+---
+
+## Other Projects
+
 - **[intelligent-aerial-monitoring](https://github.com/aviraj1805/intelligent-aerial-monitoring)** — intelligent-aerial-monitoring (IAMARS)
 - **[Customer-Churn-Prediction](https://github.com/aviraj1805/Customer-Churn-Prediction)** — Predict the probability that a telecom customer will churn based on their usage patterns.
 - **[Phonepay](https://github.com/aviraj1805/PhonePe)** — A data analysis and visualization project built on the PhonePe Pulse dataset.
-- **[Mahaguru AI](https://github.com/aviraj1805/Mahaguru-AI-v1)** *(concept/prototype)* — Multi-agent LLM platform for career clarity, emotional support, and personalized learning
 - **[Tesla Stock Prediction](https://github.com/aviraj1805/Tesla-Stock-Price-Prediction)** — Deep learning pipeline: SimpleRNN → LSTM → tuned LSTM with multi-horizon forecasts
 - **[Real Estate Advisor](https://github.com/aviraj1805/Real-Estate-Investment-Advisor-XGBoost-)** — XGBoost model predicting property profitability and future value
 - **[Yes Bank Stock Price Prediction](https://github.com/aviraj1805/YesBank_Internship)** — Machine learning project to predict Yes Bank closing stock prices using historical OHLC data.
@@ -29,8 +55,8 @@
 
 ## What I'm Doing
 
-- **Building agentic AI systems** — Designing multi-agent LLM workflows for real-world student guidance
-- **Fine-tuning LLMs** — Curating domain-specific datasets and training conversational models
+- **Building MahaGuru AI** — A reflective AI mentor and an adaptive AI classroom for students, open source and live
+- **Evaluating LLM behaviour** — Scenario-based evaluation suites, safety screening and structured, validated LLM outputs
 - **Shipping ML pipelines end-to-end** — From EDA and model selection to deployment and monitoring
 - **Researching human-centered AI** — Presented at INMEC-2026, Keystone School of Engineering, Pune (reflective mentorship with LLMs)
 
@@ -38,8 +64,8 @@
 
 ## Experience
 
-**Ex. Founder — Mahaguru AI** *(Jan 2024 – Nov 2025)*
-Founded an AI student-guidance startup concept; designed a multi-agent LLM architecture (FastAPI, React) and curated a student–mentor dialogue dataset. Selected into **COEP's I2I Startup Program.**
+**Founder — MahaGuru AI** *(Jan 2024 – Nov 2025; rebuilt as open source in 2026)*
+Founded an AI student-guidance startup, selected into **COEP's I2I Startup Program**. After the company shut down, rebuilt the product from scratch as an open-source platform that is now [live](https://mahaguru-ai.onrender.com): StudentGPT (reflective mentor) and Classroom (adaptive learning), built with FastAPI, React and PostgreSQL, with CI and end-to-end tests.
 
 **Data Science Intern — Innovexis** *(Feb 2026 – May 2026)*
 Built an ETL pipeline loading PhonePe Pulse JSON data (2018–2024) into a 9-table MySQL database, and a multi-page Streamlit + Plotly dashboard answering 10 business questions via SQL.
