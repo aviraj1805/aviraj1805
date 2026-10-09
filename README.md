@@ -1,6 +1,6 @@
 # Hi, I'm Aviraj
 
-**Pune, India** | **AI/ML Engineer** | **B.E. AI & Data Science '27** | **Creator, MahaGuru AI**
+**Pune, India** | **AI/ML Engineer** | **B.E. AI & Data Science '27** | **Ex. Founder, MahaGuru AI**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
