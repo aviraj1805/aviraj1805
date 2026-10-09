@@ -43,13 +43,21 @@
 
 ## Other Projects
 
-- **[intelligent-aerial-monitoring](https://github.com/aviraj1805/intelligent-aerial-monitoring)** — intelligent-aerial-monitoring (IAMARS)
-- **[Customer-Churn-Prediction](https://github.com/aviraj1805/Customer-Churn-Prediction)** — Predict the probability that a telecom customer will churn based on their usage patterns.
-- **[Phonepay](https://github.com/aviraj1805/PhonePe)** — A data analysis and visualization project built on the PhonePe Pulse dataset.
-- **[Tesla Stock Prediction](https://github.com/aviraj1805/Tesla-Stock-Price-Prediction)** — Deep learning pipeline: SimpleRNN → LSTM → tuned LSTM with multi-horizon forecasts
-- **[Real Estate Advisor](https://github.com/aviraj1805/Real-Estate-Investment-Advisor-XGBoost-)** — XGBoost model predicting property profitability and future value
-- **[Yes Bank Stock Price Prediction](https://github.com/aviraj1805/YesBank_Internship)** — Machine learning project to predict Yes Bank closing stock prices using historical OHLC data.
-- **[iTunes Music Store](https://github.com/aviraj1805/iTunes-Data-Analysis)** — SQL-based analysis of the Apple iTunes database to derive insights on customer behavior.
+Projects from my resume first, with live demos wherever one is available.
+
+| Project | What it does | Links |
+|---|---|---|
+| **Customer Churn Prediction** | Kaggle Playground S6E3. XGBoost and LightGBM on ~594K telecom records (21 features) with 5-fold stratified CV; XGBoost reached **0.916 mean ROC-AUC**. EDA surfaced the strongest churn drivers: electronic-check payment, month-to-month contracts, fiber-optic internet and first-year customers. | [Live demo](https://churn-predictor-aviraj.onrender.com/) · [Source](https://github.com/aviraj1805/Customer-Churn-Prediction) |
+| **CreditWise: Loan Approval** | scikit-learn pipeline on 950 applicants (18 features). A class-balanced Random Forest reached **0.91 F1 and 0.98 ROC-AUC**, versus 0.81 F1 for a logistic-regression baseline. Deployed with live predictions, confidence scores and feature importance. | [Live demo](https://creditwiseloanapprovall.streamlit.app/) · [Source](https://github.com/aviraj1805/CreditWise-Loan-Approval-System) |
+| **IAMARS: Drone Detection and Tracking** | Team project. YOLOv8n fine-tuned on VisioDECT with a leakage-aware split: **0.965 mAP@0.5** on a 1,800-image held-out set. ByteTrack tracking, 88.5 FPS on an RTX 2050, and intercept-point prediction in 3D simulation. | [Live demo](https://huggingface.co/spaces/AvirajV/iamars-drone-tracking) · [Source](https://github.com/aviraj1805/intelligent-aerial-monitoring) |
+| **PhonePe Pulse Insights** | Internship project. ETL of PhonePe Pulse JSON data (2018 to 2024) into a 9-table MySQL database, 10 SQL business questions, and a multi-page Streamlit and Plotly dashboard. | [Live charts](https://aviraj1805.github.io/portfolio/demos/phonepe/) · [Source](https://github.com/aviraj1805/PhonePe) |
+| **Mental Health in Tech: EDA** | 1,251 survey responses analysed for what drives treatment-seeking: family history, work interference and employer benefits. Published as an interactive Plotly dashboard. | [Live dashboard](https://aviraj1805.github.io/portfolio/demos/mental-health/) · [Source](https://github.com/aviraj1805/mental-health-survey-eda) |
+| **Tesla Stock Prediction** | Deep learning pipeline: SimpleRNN, LSTM and a tuned LSTM with 1, 5 and 10-day forecasts. | [Source](https://github.com/aviraj1805/Tesla-Stock-Price-Prediction) |
+| **Real Estate Advisor** | XGBoost model predicting property profitability and future value. | [Source](https://github.com/aviraj1805/Real-Estate-Investment-Advisor-XGBoost-) |
+| **Yes Bank Stock Price Prediction** | Machine learning on historical OHLC data to predict Yes Bank closing prices. | [Source](https://github.com/aviraj1805/YesBank_Internship) |
+| **iTunes Music Store Analysis** | SQL analysis of the Apple iTunes database for insights on customer behaviour. | [Source](https://github.com/aviraj1805/iTunes-Data-Analysis) |
+
+More in my [portfolio](https://aviraj1805.github.io/portfolio/) and on [GitHub](https://github.com/aviraj1805?tab=repositories).
 
 ---
 
