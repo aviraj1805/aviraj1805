@@ -35,7 +35,6 @@
 
 [![Live demo](https://img.shields.io/badge/Live%20demo-mahaguru--ai.onrender.com-1D4ED8?style=for-the-badge)](https://mahaguru-ai.onrender.com)
 [![Source](https://img.shields.io/badge/Source-MahaGuru--V1-181717?style=for-the-badge&logo=github)](https://github.com/aviraj1805/MahaGuru-V1)
-[![CI](https://github.com/aviraj1805/MahaGuru-V1/actions/workflows/ci.yml/badge.svg)](https://github.com/aviraj1805/MahaGuru-V1/actions/workflows/ci.yml)
 
 [Research behind it](https://mahaguru-ai.onrender.com/research) · [Architecture](https://github.com/aviraj1805/MahaGuru-V1/blob/main/docs/architecture.md) · [Evaluation method](https://github.com/aviraj1805/MahaGuru-V1/blob/main/docs/evaluation.md) · [Screenshots](https://github.com/aviraj1805/MahaGuru-V1#screenshots)
 
